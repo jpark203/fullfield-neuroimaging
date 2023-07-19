@@ -20,9 +20,18 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 <br>
-This will be the front page, introducing about the website. 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+### **Welcome!**
 
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<br>
+#### This website is to share specs and information about our full-field neuroimaging setup, which allows us to project images up to 175 deg visual angle in the MRI scanner. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+<br>
+#### Each key component of the setup has its own page, where you can find information about the design, materials, and images. 
+
+<br>
+#### Note that these are just brief description of what / how / why things are designed the way they are, as a starting point for anyone who wants to build their own setup.
+
+<br>
+#### Please feel free to sign up for the email list below to receive updates on the website and the setup. 
+#### If you have any questions, please ask us via the email list. 
+#### We will try to answer the questions we have answers to, and update the FAQ page accordingly.
