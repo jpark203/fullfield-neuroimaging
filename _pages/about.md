@@ -34,4 +34,4 @@ social: false  # includes social icons at the bottom of the page
 <br>
 #### Please feel free to sign up for the email list below to receive updates on the website and the setup. 
 #### If you have any questions, please ask us via the email list. 
-#### We will try to answer the questions we have answers to, and update the FAQ page accordingly.
+#### We will try to answer the questions we have answers to, and update the FAQ page as necessary.
