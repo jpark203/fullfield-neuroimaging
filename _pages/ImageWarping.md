@@ -7,6 +7,12 @@ nav: true
 nav_order: 4
 ---
 
+<blockquote style="background-color: #f2e6ff;">
+<strong><em>Key Idea</em></strong> : 
+Computationally warp images to compensate for the curvature of the screen and the projection angle of the projector.
+</blockquote>
+
+<br>
 #### **Problems and Goals**
 - <span style="font-size: 18px;"> Due to physical constraints of scanner room (e.g., location of projector, projection angle), only a part of display pixels (currently about 30%) can be projected onto a screen, and the rest of pixels fall outside of the screen. Thus, it is crucial to know which pixels are actually usable for presenting stimuli. </span>
 - <span style="font-size: 18px;"> A regular image looks distorted, because the screen is curved and tilted from a participant’s eyes. Thus, a projected image needs to be warped in a reverse direction, such that the image on the curved screen looks “normal”. </span>
@@ -36,7 +42,7 @@ nav_order: 4
 #### **Map input image to the screen shape**
 - <span style="font-size: 18px;"> Now we have the number of usable pixels (i.e., can be projected onto the screen) for each X and Y axis.</span>
 - <span style="font-size: 18px;"> However, the number of those pixels will be lower than the original input image. Thus, we need to downsample the input image. </span>
-- <span style="font-size: 18px;"> This step results in the mapping function indicating which pixel in the input image should be mapped onto a pixel in the output image (curved screen). </span>
+- <span style="font-size: 18px;"> This step results in a mapping function indicating which pixel in the input image should be mapped onto a pixel in the output image (curved screen). </span>
 
 
 <div style="padding: 10px;">

@@ -7,6 +7,13 @@ nav: true
 nav_order: 1
 ---
 
+<blockquote style="background-color: #f2e6ff;">
+<strong><em>Key Idea</em></strong> : 
+Set up an image projection path, such that the maximum number of pixels can be projected onto the screen, but with a constraint that the setup should not interfere with other ongoing studies.
+</blockquote>
+<!-- #F0F0F0 cce6ff f2e6ff -->
+
+<br>
 #### **MRI Room and Constraints**
 - <span style="font-size: 18px;"> The Harvard CBS Neuroimaging facility relies on a LCD projector that is placed  on a stable table outside the shielded scanner room. In most visual experiments, images are projected onto a screen at the back of the bore that is viewed via a small mirror positioned above the subject’s eyes.
 - <span style="font-size: 18px;"> To increase the spatial extent of stimulus, our goal was to project onto the inner wall of the cylinder bore. This simple idea is constrained by both physical and organizational limitations.

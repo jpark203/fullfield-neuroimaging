@@ -7,6 +7,12 @@ nav: true
 nav_order: 3
 ---
 
+<blockquote style="background-color: #f2e6ff;">
+<strong><em>Key Idea</em></strong> : 
+Images should have compatible properties (e.g., field-of-view, height of camera) to avoid perceptual distortions of space. 
+</blockquote>
+
+<br>
 - <span style="font-size: 22px;"> Stimuli were 1024 x 768 pixels 2D images, which were captured via a camera in virtual reality environments.</span>
 
 <br>

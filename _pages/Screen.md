@@ -7,6 +7,13 @@ nav: true
 nav_order: 2
 ---
 
+<blockquote style="background-color: #f2e6ff;">
+<strong><em>Key Idea</em></strong> : 
+Get the maximum screen real estate for a given scanner bore size, with constraints that 1) the screen must remain stable against the scanner vibration, 2) image should look crisp and clear, and 3) the screen should be easy to setup and remove.
+</blockquote>
+
+
+<br>
 #### **Design**
 <div style="padding: 10px;">
     <img src="../images/ScreenHull.JPG" alt="screen hull" style="width: 100%; height: auto;">
