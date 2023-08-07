@@ -32,6 +32,7 @@ social: false  # includes social icons at the bottom of the page
   - #### Screen
   - #### Stimuli
   - #### Image Warping
+  - #### Signal QA
 
 <br>
 #### Each key component of the setup has its own page, where you can find information about the design, materials, and images. 

@@ -27,12 +27,7 @@ Get the maximum screen real estate for a given scanner bore size, with constrain
 [.dxf](../designFiles/screenHull.dxf)
     - <span style="font-size: 18px;"> The original back brace cast an unwanted shadow and was replaced with the lower profile one shown floating in front. A new back bracket, consistent with this design, has been added to the dxf file. </span>
 
-
-<!-- <a href="https://github.com/jpark203/fullfield-neuroimaging/raw/main/designFiles/2020FlatDesign.ipt" download> .ipt</a>
-,
-<a href="https://github.com/jpark203/fullfield-neuroimaging/raw/main/designFiles/screenHull.zip" download> .dxf(in zip) </a> -->
-    
-    
+   
     
 <br><br>
 - - -
