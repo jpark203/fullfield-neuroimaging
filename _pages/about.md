@@ -41,4 +41,4 @@ social: false  # includes social icons at the bottom of the page
 #### Note that these are just brief description of what / how / why things are designed the way they are, as a starting point for anyone who wants to build their own setup.
 
 <br>
-#### If you'd like to ask any questions, or want to receive updates on the setup, please consider joining our Google Groups. A link to the group will be shown once you fill out the form [HERE](https://forms.gle/mDy1PMJv11Trk1uW8).   
+#### :point_right: **If you'd like to ask any questions, or want to receive updates on the setup, please consider joining our Google Groups. A link to the group will be shown once you fill out the form [HERE](https://forms.gle/mDy1PMJv11Trk1uW8)**.   
