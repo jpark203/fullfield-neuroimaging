@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /signalQA/
-title: SignalQA
+title: SignalQuality
 description: 
 nav: true
 nav_order: 5
@@ -13,7 +13,8 @@ Assess impact of removing the top head-coil on MRI signal quality, by running th
 
 
 <br>
-#### **SNR maps (impacts on the anatomical image)**
+<!-- #### **SNR maps (impacts on the anatomical image)** -->
+#### **Signal-to-Noise Ratio (SNR) maps - impacts on the anatomical image**
 - <span style="font-size: 18px;"> We ran a special sequence designed for quality assessment (QA) of the head coils. </span>
 - <span style="font-size: 18px;"> It produced pure image signal-to-noise ratio (SNR) maps from each of principal axes, which is nominally signal divided by the noise. </span>
 - <span style="font-size: 18px;"> Qualitatively, the image SNR in the posterior part of brain was barely affected, and the resulting T1-weighted images confirmed this. </span>
@@ -31,7 +32,8 @@ Assess impact of removing the top head-coil on MRI signal quality, by running th
 
 
 <br>
-#### **tSNR Images (impacts on the functional scans)**
+<!-- #### **tSNR Images (impacts on the functional scans)** -->
+#### **Temporal SNR (tSNR) Images - impacts on the functional scans**
 - <span style="font-size: 18px;"> We ran one of our BOLD scans (functional category localizer) with the exact parameters to get tSNR. This measure is important for BOLD sensitivity as it shows an ability to detect changes during the time course of the scan. </span>
 - <span style="font-size: 18px;"> The acquired data were preprocessed, brain-masked, then the mean and standard deviation images were calculated. The tSNR image was obtained from dividing the mean by standard deviation. </span>
 - <span style="font-size: 18px;"> To compare only brain areas acquired predominantly by the bottom head-coil only, we created a mask. In the bottom head-coil only tSNR image, we selected areas above the chosen threshold (tSNR = 25), then masked the with top head-coil tSNR image with the selection. </span>
