@@ -24,6 +24,7 @@ social: false  # includes social icons at the bottom of the page
 ### **Welcome!**
 
 <blockquote style="background-color: #f2e6ff;">
+<strong><em>Email List</em></strong> : 
 <span style="font-size: 18px;">
 If you'd like receive updates on the setup, or ask any questions, please consider joining our Google Groups. A link to the group will be shown once you fill out the form <a href = "https://forms.gle/mDy1PMJv11Trk1uW8"><strong>HERE</strong></a>.
 </span>

@@ -35,7 +35,7 @@ Images should have compatible properties (e.g., field-of-view, height of camera)
         <figcaption><em>Horizontal FOV in VR</em></figcaption>
     </div>
     - <span style="font-size: 18px;"> This FOV was chosen based on the chord angle of our physical screen (120 deg) and empirical testing by experimenters. </span>
-    - <span style="font-size: 18px;"> Since there was no ground truth for the size of VR environments (e.g., how large the space should be), experimenters compared a few different FOVs and made subjective judgements on which parameter feels most natural. </span>
+    - <span style="font-size: 18px;"> Since there was no ground truth for the size of VR environments (e.g., how large the space should be), experimenters compared a few different FOVs and made subjective judgements on which parameters feel most natural. </span>
 
 
 
