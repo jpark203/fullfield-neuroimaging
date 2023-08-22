@@ -53,6 +53,6 @@ If you'd like receive updates on the setup, or ask any questions, please conside
 
 <br>
 :point_right: 
-<span style="font-size: 18px;"><strong>Please cite our <a href = "https://www.biorxiv.org/content/10.1101/2023.05.14.540275v2">preprint</a>: </strong> Park, J., Soucy, E., Segawa, J., Mair, R., & Konkle, T. (2023). Ultra-wide angle neuroimaging: insights into immersive scene representation. <em>bioRxiv.</em>
+<span style="font-size: 18px;"><strong><a href = "https://www.biorxiv.org/content/10.1101/2023.05.14.540275v2">Preprint</a>: </strong> Park, J., Soucy, E., Segawa, J., Mair, R., & Konkle, T. (2023). Ultra-wide angle neuroimaging: insights into immersive scene representation. <em>bioRxiv.</em>
 </span>
  
